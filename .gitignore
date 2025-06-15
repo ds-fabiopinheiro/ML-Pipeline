@@ -9,3 +9,6 @@ env/
 # Ignorar arquivos de IDE
 .idea/
 .vscode/
+
+# Ignorar arquivo de variáveis de ambiente
+.env
