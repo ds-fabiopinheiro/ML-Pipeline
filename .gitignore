@@ -1,0 +1,11 @@
+# Ignorar arquivos temporários
+*.tmp
+*.bak
+
+# Ignorar pastas de ambiente virtual
+venv/
+env/
+
+# Ignorar arquivos de IDE
+.idea/
+.vscode/
