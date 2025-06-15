@@ -1,7 +1,7 @@
 # IEEE-CIS Fraud Detection Dataset Documentation
 
 ## Overview
-This dataset is provided by IEEE Computational Intelligence Society (IEEE-CIS) for fraud detection. It contains transactional data and identity information, aiming to predict fraudulent transactions.
+Este dataset é fornecido pelo IEEE Computational Intelligence Society (IEEE-CIS)  para detecção de fraudes. Ele contém dados transacionais e informações de identidade, com o objetivo de prever transações fraudulentas.
 
 ## Dataset Structure
 - **train_transaction.csv**: Dados de transações para treinamento.
